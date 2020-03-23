@@ -41,5 +41,8 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://covidtracker19.herokuapp.com"
+  "proxy": "https://covidtracker19.herokuapp.com",
+  "devDependencies": {
+    "webpack": "^4.42.0"
+  }
 }
